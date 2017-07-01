@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Response StatusCode="100">
+  <PatientSummary>
+    <Allergys>
+      <Allergy>
+        <Date>2016-07-31</Date>
+        <Value>집진드기알레르기</Value>
+      </Allergy>
+    </Allergys>
+    <AdverseReactions>
+      <AdverseReaction>
+        <Date>2016-07-31</Date>
+        <Value>타이레놀 못먹음</Value>
+      </AdverseReaction>
+    </AdverseReactions>
+    <PastHistorys>
+      <PatientHistory>
+        <Date>2016-07-31</Date>
+        <Value>출산자녀수: 1</Value>
+      </PatientHistory>
+    </PastHistorys>
+    <FamilyHistorys>
+      <FamilyHistory>
+        <Date>2016-07-31</Date>
+        <Value>Alcohol 여부: Yes</Value>
+      </FamilyHistory>
+    </FamilyHistorys>
+    <SosicalHistorys>
+      <SosicalHistory>
+        <Date>2016-07-31</Date>
+        <Value>Alcohol 여부: Yes Alcohol 여부: Yes</Value>
+      </SosicalHistory>
+    </SosicalHistorys>
+    <PhysicalMeasurement>
+      <Height>
+        <Date>2016-07-31</Date>
+        <Value>173.0</Value>
+      </Height>
+      <Weight>
+        <Date>2016-07-31</Date>
+        <Value>78.0</Value>
+      </Weight>
+      <BloodPressure>
+        <Date>2016-07-31</Date>
+        <Value>88-122</Value>
+      </BloodPressure>
+      <Pulse>
+        <Date>2016-07-31</Date>
+        <Value>81</Value>
+      </Pulse>
+      <BloodType>
+        <Date>2016-07-31</Date>
+        <Value>AB</Value>
+      </BloodType>
+    </PhysicalMeasurement>
+    <Medications>
+      <Medication>
+        <Date>2016-07-31</Date>
+        <Code>k-1234</Code>
+        <Value>비타500</Value>
+      </Medication>
+    </Medications>
+    <TeleMedicines>
+      <TeleMedicine>
+        <Date>2016-07-31</Date>
+        <Value>알레르기 진찰 후 비타500 투약 완료.</Value>
+      </TeleMedicine>
+    </TeleMedicines>
+  </PatientSummary>
+  <!--Patient Example 1-->
+</Response>
